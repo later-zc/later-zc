@@ -1,4 +1,4 @@
-## Hi there, Welcome to my homepage 👋
+## Hi, Welcome to my homepage 👋
 - 🧱 I’m currently working on Web development
 - 🌱 I’m currently learning Vue, React and Node
 - 🚀 I want to be a full stack developer
