@@ -1,4 +1,4 @@
-### Hi there, Welcome to my homepage 👋
+## Hi there, Welcome to my homepage 👋
 - 🔭 I’m currently working on Web development
 - 🌱 I’m currently learning Vue, React and Node
 
