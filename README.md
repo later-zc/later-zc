@@ -1,6 +1,6 @@
 ## Hi, Welcome to my homepage 👋
 - 🧱 I’m currently working on Web development
-- ⚽ If you have any good ideas or ideas, you are welcome to discuss them with me
+- ⚽ If you have any good ideas, you are welcome to discuss them with me
 
 <!--
 **later-zc/later-zc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
