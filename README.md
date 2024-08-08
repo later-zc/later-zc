@@ -1,5 +1,5 @@
 ## Hi, Welcome to my homepage 👋
-- 🧱 I’m currently working on Web development
+- 🧱 I’m currently working on front-end development
 - ⚽ If you have any good ideas, you are welcome to discuss them with me
 
 <!--
