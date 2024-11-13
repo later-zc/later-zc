@@ -3,8 +3,12 @@
 - 🧱 I’m currently working on front-end development
 - 🍻 If you have any good ideas, you are welcome to discuss them with me
 
-![later-zc's GitHub stats](https://github-readme-stats.vercel.app/api?username=later-zc&show_icons=true&theme=shadow_blue&count_private=true)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=later-zc&theme=dark&layout=compact)
+<a href="https://github.com/later-zc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=later-zc&show_icons=true&theme=shadow_blue&count_private=true" />
+</a>
+<a href="https://github.com/later-zc">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=later-zc&theme=buefy&layout=compact" />
+</a>
 
 <!--
 **later-zc/later-zc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
