@@ -17,7 +17,16 @@
     </td>
   </tr>
 </table>
+<!-- WakaTime 编码时间图表 -->
 
+<h2> ⏱ 编程时间统计</h2>
+
+<img src="https://wakatime.com/badge/user/90ff30da-8109-4764-b3fd-ea3bba76b8e1.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=laterzc&layout=compact&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=laterzc&layout=compact&theme=default" />
+  <img alt="WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=laterzc&layout=compact" />
+</picture>
 
 
 <!--
