@@ -1,4 +1,8 @@
-## 👋 Hi, Welcome to my homepage 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&vCenter=true&width=435&separator=%3C&lines=Welcome+to+my+GitHub+%F0%9F%91%8B%3Cconsole.log('hello+world')%3CSystem.out.print(%22hello+world%22);)](https://git.io/typing-svg)
+<!-- 
+https://readme-typing-svg.demolab.com/demo/?duration=3000&vCenter=true&separator=%3C&lines=Welcome+to+my+GitHub+%F0%9F%91%8B%3Cconsole.log(%27hello+world%27)%3CSystem.out.print(%22hello+world%22);
+-->
+
 **About me**
 - 🧱 I’m currently working on front-end development
 - 🍻 If you have any good ideas, you are welcome to discuss them with me
@@ -17,9 +21,9 @@
     </td>
   </tr>
 </table>
-<!-- WakaTime 编码时间图表 -->
 
-<h2> ⏱ 编程时间统计（2025.05.29 - today）</h2>
+<!-- WakaTime 编码时间图表 -->
+**⏱ 编程时间统计（2025.05.29 - Today）**
 
 <a href="https://wakatime.com/@90ff30da-8109-4764-b3fd-ea3bba76b8e1"><img src="https://wakatime.com/badge/user/90ff30da-8109-4764-b3fd-ea3bba76b8e1.svg?style=plastic" alt="Total time coded since May 29 2025" /></a>
 
