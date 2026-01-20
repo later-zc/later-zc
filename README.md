@@ -4,7 +4,7 @@ https://readme-typing-svg.demolab.com/demo/?duration=3000&vCenter=true&separator
 -->
 
 **About me**
-- 🧱 I’m currently working on front-end development
+- 🧱 I’m currently working on full-stack development
 - 🍻 If you have any good ideas, you are welcome to discuss them with me
 
 <table>
