@@ -27,7 +27,9 @@ https://readme-typing-svg.demolab.com/demo/?duration=3000&vCenter=true&separator
 
 <a href="https://wakatime.com/@90ff30da-8109-4764-b3fd-ea3bba76b8e1"><img src="https://wakatime.com/badge/user/90ff30da-8109-4764-b3fd-ea3bba76b8e1.svg?style=plastic" alt="Total time coded since May 29 2025" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=later-zc)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=later-zc)](https://git.io/streak-stats) -->
+
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=later-zc)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=laterzc&layout=compact&theme=dark" />
